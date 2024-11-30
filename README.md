@@ -1,7 +1,7 @@
 # 🪸 Reef 6
 DATA3888 Project
 
-![Orange Soda](logo for reef.png)
+![Orange Soda](logo_for_reef.png)
 
 ## 🌊 How does excessive nutrient concentration and sediment transport affect coral reef health in the Great Barrier Reef?
 ## 🌊 过多的营养浓度和沉积物运输如何影响大堡礁的珊瑚礁健康？
