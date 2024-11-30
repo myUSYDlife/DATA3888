@@ -10,8 +10,8 @@ This project investigates the impact of excessive nutrient concentration and sed
 **Group Logo 小组标志**: Orange Soda
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="text_logo_white.png" alt="Orange Soda Text Logo" style="width: 50%;"> 
-  <img src="logo_for_reef.png" alt="Orange Soda Logo" style="width: 50%;">
+  <img src="text_logo_white.png" alt="Orange Soda Text Logo" style="width: 40%;"> 
+  <img src="logo_for_reef.png" alt="Orange Soda Logo" style="width: 40%;">
 </div>
 
 **Data Members 数据成员**: Avis, Bill, Jerry, Stella, Ashwin
