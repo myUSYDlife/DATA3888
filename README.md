@@ -1,5 +1,4 @@
-# 🪸 Reef 6
-DATA3888 Project
+# 🪸 Reef 6 - DATA3888 Project
 
 ## 🌊 How does excessive nutrient concentration and sediment transport affect coral reef health in the Great Barrier Reef?
 ## 🌊 过多的营养浓度和沉积物运输如何影响大堡礁的珊瑚礁健康？
