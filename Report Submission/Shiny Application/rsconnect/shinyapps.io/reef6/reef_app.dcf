@@ -1,0 +1,13 @@
+name: reef_app
+title: reef_app
+username:
+account: reef6
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9152877
+bundleId: 7243497
+url: https://reef6.shinyapps.io/reef_app/
+when: 1684647717.73598
+lastSyncTime: 1684647717.73599
+asMultiple: FALSE
+asStatic: FALSE

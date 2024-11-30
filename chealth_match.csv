@@ -1,0 +1,122 @@
+,NRM_REGION,CATCHMENT,MMP_SITE_NAME,DEPTH,SITE_NO,LATITUDE,LONGITUDE,P_CODE,VISIT_NO,YEAR_CODE,SAMPLE_DATE,GROUP_CODE,COVER,ALGAE_COVER,SOFT_COVER,HARD_COVER
+88,Burdekin,Burdekin,Havannah,2,1,-18.847217,146.542833,IN,16,2020,2020-04-04,Algae,74.88,74.88,1.38,17.0
+92,Burdekin,Burdekin,Havannah,2,2,-18.846367,146.540683,IN,16,2020,2020-04-04,Algae,59.63,59.63,4.38,28.75
+184,Burdekin,Burdekin,Havannah,5,1,-18.84755,146.5427,IN,16,2020,2020-04-04,Algae,55.25,55.25,10.75,30.0
+188,Burdekin,Burdekin,Havannah,5,2,-18.846683,146.540583,IN,16,2020,2020-04-04,Algae,58.88,58.88,1.75,31.38
+256,Burdekin,Burdekin,Lady Elliot,2,1,-18.67985,146.332467,IN,16,2020,2020-04-04,Algae,44.5,44.5,0.13,37.75
+260,Burdekin,Burdekin,Lady Elliot,2,2,-18.681833,146.331767,IN,16,2020,2020-04-04,Algae,62.63,62.63,0.0,7.25
+328,Burdekin,Burdekin,Lady Elliot,5,1,-18.680167,146.333033,IN,16,2020,2020-04-04,Algae,16.63,16.63,0.0,57.63
+332,Burdekin,Burdekin,Lady Elliot,5,2,-18.68235,146.332067,IN,16,2020,2020-04-04,Algae,33.5,33.5,0.38,20.75
+448,Burdekin,Burdekin,Magnetic,2,1,-19.154833,146.868517,IN,16,2020,2020-04-06,Algae,58.88,58.88,0.0,24.38
+452,Burdekin,Burdekin,Magnetic,2,2,-19.156217,146.86215,IN,16,2020,2020-04-06,Algae,85.25,85.25,0.13,11.38
+568,Burdekin,Burdekin,Magnetic,5,1,-19.15495,146.868483,IN,16,2020,2020-04-06,Algae,48.75,48.75,2.0,15.13
+572,Burdekin,Burdekin,Magnetic,5,2,-19.156783,146.8622,IN,16,2020,2020-04-06,Algae,36.25,36.25,2.13,46.5
+704,Burdekin,Burdekin,Palms East,2,1,-18.571783,146.494683,IN,16,2020,2020-04-03,Algae,29.5,29.5,1.63,58.38
+708,Burdekin,Burdekin,Palms East,2,2,-18.574333,146.49625,IN,16,2020,2020-04-03,Algae,64.5,64.5,4.13,23.88
+792,Burdekin,Burdekin,Palms East,5,1,-18.571733,146.495067,IN,16,2020,2020-04-03,Algae,40.0,40.0,3.0,38.88
+796,Burdekin,Burdekin,Palms East,5,2,-18.57445,146.49715,IN,16,2020,2020-04-03,Algae,36.25,36.25,3.75,53.25
+920,Burdekin,Burdekin,Palms West,2,1,-18.569117,146.482317,IN,16,2020,2020-04-03,Algae,33.0,33.0,28.38,7.88
+924,Burdekin,Burdekin,Palms West,2,2,-18.540583,146.488767,IN,16,2020,2020-04-03,Algae,36.0,36.0,18.13,10.88
+1048,Burdekin,Burdekin,Palms West,5,1,-18.569067,146.482017,IN,16,2020,2020-04-03,Algae,44.75,44.75,27.38,9.63
+1052,Burdekin,Burdekin,Palms West,5,2,-18.540583,146.48855,IN,16,2020,2020-04-03,Algae,52.88,52.88,18.5,13.0
+1160,Burdekin,Burdekin,Pandora,2,1,-18.814033,146.435983,IN,16,2020,2020-04-05,Algae,79.1,79.1,0.13,9.0
+1164,Burdekin,Burdekin,Pandora,2,2,-18.8164,146.434067,IN,16,2020,2020-04-05,Algae,61.5,61.5,0.25,12.0
+1272,Burdekin,Burdekin,Pandora,5,1,-18.81405,146.436317,IN,16,2020,2020-04-05,Algae,70.0,70.0,0.38,11.75
+1276,Burdekin,Burdekin,Pandora,5,2,-18.8168,146.434567,IN,16,2020,2020-04-05,Algae,74.25,74.25,0.5,18.13
+1384,Fitzroy Basin Association,Fitzroy,Barren,2,1,-23.157567,151.070467,IN,16,2020,2020-05-01,Algae,50.5,50.5,8.75,34.38
+1388,Fitzroy Basin Association,Fitzroy,Barren,2,2,-23.1565,151.07295,IN,16,2020,2020-05-01,Algae,38.0,38.0,3.75,52.38
+1496,Fitzroy Basin Association,Fitzroy,Barren,5,1,-23.157483,151.070467,IN,16,2020,2020-05-01,Algae,28.88,28.88,3.63,66.88
+1500,Fitzroy Basin Association,Fitzroy,Barren,5,2,-23.156583,151.0729,IN,16,2020,2020-05-01,Algae,23.0,23.0,0.5,76.13
+1616,Fitzroy Basin Association,Fitzroy,Keppels South,2,1,-23.21615,150.963783,IN,16,2020,2020-05-01,Algae,71.75,71.75,0.75,15.63
+1620,Fitzroy Basin Association,Fitzroy,Keppels South,2,2,-23.202467,150.969783,IN,16,2020,2020-05-01,Algae,33.88,33.88,4.25,60.75
+1736,Fitzroy Basin Association,Fitzroy,Keppels South,5,1,-23.216267,150.9634,IN,16,2020,2020-05-01,Algae,44.0,44.0,0.63,22.88
+1740,Fitzroy Basin Association,Fitzroy,Keppels South,5,2,-23.202683,150.969783,IN,16,2020,2020-05-01,Algae,41.63,41.63,0.0,54.5
+1824,Fitzroy Basin Association,Fitzroy,Middle,2,1,-23.161533,150.92055,IN,16,2020,2020-05-02,Algae,48.13,48.13,0.75,48.75
+1828,Fitzroy Basin Association,Fitzroy,Middle,2,2,-23.1639,150.923967,IN,16,2020,2020-05-02,Algae,78.13,78.13,0.0,20.75
+1872,Fitzroy Basin Association,Fitzroy,Middle,5,1,-23.161467,150.920633,IN,16,2020,2020-05-02,Algae,63.13,63.13,0.88,21.0
+1956,Fitzroy Basin Association,Fitzroy,North Keppel,2,1,-23.086417,150.9052,IN,16,2020,2020-05-02,Algae,73.25,73.25,0.0,26.0
+1960,Fitzroy Basin Association,Fitzroy,North Keppel,2,2,-23.0852,150.901783,IN,16,2020,2020-05-03,Algae,46.94,46.94,0.25,49.68
+2044,Fitzroy Basin Association,Fitzroy,North Keppel,5,1,-23.08645,150.905183,IN,16,2020,2020-05-02,Algae,90.13,90.13,0.63,5.5
+2048,Fitzroy Basin Association,Fitzroy,North Keppel,5,2,-23.085217,150.901733,IN,16,2020,2020-05-03,Algae,38.63,38.63,0.88,44.25
+2316,Fitzroy Basin Association,Fitzroy,Pelican,2,1,-23.239667,150.874183,IN,16,2020,2020-05-03,Algae,65.5,65.5,1.25,8.88
+2320,Fitzroy Basin Association,Fitzroy,Pelican,2,2,-23.24205,150.878083,IN,16,2020,2020-05-03,Algae,74.88,74.88,0.0,1.0
+2428,Fitzroy Basin Association,Fitzroy,Pelican,5,1,-23.238917,150.874483,IN,16,2020,2020-07-13,Algae,36.63,36.63,9.38,9.25
+2432,Fitzroy Basin Association,Fitzroy,Pelican,5,2,-23.241783,150.8785,IN,16,2020,2020-07-13,Algae,35.38,35.38,6.13,32.13
+2540,Mackay / Whitsunday,Proserpine,Daydream,2,1,-20.255617,148.812417,IN,16,2020,2020-06-13,Algae,54.25,54.25,0.0,0.38
+2544,Mackay / Whitsunday,Proserpine,Daydream,2,2,-20.253433,148.81245,IN,16,2020,2020-06-24,Algae,64.88,64.88,0.38,0.88
+2652,Mackay / Whitsunday,Proserpine,Daydream,5,1,-20.25575,148.81215,IN,16,2020,2020-06-13,Algae,31.0,31.0,0.13,4.13
+2656,Mackay / Whitsunday,Proserpine,Daydream,5,2,-20.25345,148.812283,IN,16,2020,2020-06-24,Algae,69.0,69.0,0.13,1.63
+2732,Mackay / Whitsunday,Proserpine,Dent,2,1,-20.34495,148.938183,IN,16,2020,2020-06-25,Algae,85.5,85.5,4.13,7.0
+2736,Mackay / Whitsunday,Proserpine,Dent,2,2,-20.347433,148.937017,IN,16,2020,2020-06-25,Algae,43.38,43.38,3.75,37.25
+2812,Mackay / Whitsunday,Proserpine,Dent,5,1,-20.344983,148.938217,IN,16,2020,2020-06-25,Algae,72.13,72.13,3.5,17.5
+2816,Mackay / Whitsunday,Proserpine,Dent,5,2,-20.347433,148.93705,IN,16,2020,2020-06-25,Algae,34.5,34.5,3.75,44.63
+2932,Mackay / Whitsunday,Proserpine,Double Cone,2,1,-20.104817,148.72175,IN,16,2020,2020-06-13,Algae,71.13,71.13,0.88,2.63
+2936,Mackay / Whitsunday,Proserpine,Double Cone,2,2,-20.105733,148.71885,IN,16,2020,2020-06-13,Algae,64.0,64.0,0.13,0.5
+3052,Mackay / Whitsunday,Proserpine,Double Cone,5,1,-20.104917,148.72175,IN,16,2020,2020-06-13,Algae,64.75,64.75,1.75,12.38
+3056,Mackay / Whitsunday,Proserpine,Double Cone,5,2,-20.10595,148.719017,IN,16,2020,2020-06-13,Algae,56.25,56.25,0.75,25.42
+3124,Mackay / Whitsunday,Proserpine,Hook,2,1,-20.168117,148.8872,IN,16,2020,2020-06-25,Algae,85.88,85.88,4.88,5.0
+3128,Mackay / Whitsunday,Proserpine,Hook,2,2,-20.165667,148.883933,IN,16,2020,2020-06-25,Algae,88.75,88.75,3.63,3.25
+3196,Mackay / Whitsunday,Proserpine,Hook,5,1,-20.168117,148.887133,IN,16,2020,2020-06-25,Algae,54.0,54.0,1.13,15.88
+3200,Mackay / Whitsunday,Proserpine,Hook,5,2,-20.165717,148.883933,IN,16,2020,2020-06-25,Algae,52.8,52.8,15.53,15.65
+3316,Mackay / Whitsunday,Proserpine,Pine,2,1,-20.377983,148.888417,IN,16,2020,2020-06-16,Algae,91.25,91.25,0.38,1.5
+3320,Mackay / Whitsunday,Proserpine,Pine,2,2,-20.37545,148.88645,IN,16,2020,2020-06-16,Algae,68.25,68.25,0.5,11.38
+3436,Mackay / Whitsunday,Proserpine,Pine,5,1,-20.377983,148.888367,IN,16,2020,2020-06-16,Algae,57.25,57.25,1.0,15.75
+3440,Mackay / Whitsunday,Proserpine,Pine,5,2,-20.37545,148.8864,IN,16,2020,2020-06-15,Algae,59.63,59.63,0.25,17.0
+3516,Mackay / Whitsunday,Proserpine,Seaforth,2,1,-20.468417,149.038933,IN,16,2020,2020-06-14,Algae,47.63,47.63,7.63,11.75
+3520,Mackay / Whitsunday,Proserpine,Seaforth,2,2,-20.47185,149.03715,IN,16,2020,2020-06-14,Algae,54.89,54.89,4.52,15.93
+3596,Mackay / Whitsunday,Proserpine,Seaforth,5,1,-20.46845,149.03895,IN,16,2020,2020-06-14,Algae,28.5,28.5,2.5,19.38
+3600,Mackay / Whitsunday,Proserpine,Seaforth,5,2,-20.4719,149.03715,IN,16,2020,2020-06-14,Algae,34.75,34.75,5.75,12.13
+3676,Mackay / Whitsunday,Proserpine,Shute Harbour,2,1,-20.301683,148.803217,IN,16,2020,2020-06-24,Algae,59.88,59.88,8.5,19.88
+3680,Mackay / Whitsunday,Proserpine,Shute Harbour,2,2,-20.30085,148.798233,IN,16,2020,2020-06-24,Algae,17.13,17.13,7.63,61.0
+3756,Mackay / Whitsunday,Proserpine,Shute Harbour,5,1,-20.301733,148.803217,IN,16,2020,2020-06-24,Algae,46.0,46.0,2.13,5.5
+3760,Mackay / Whitsunday,Proserpine,Shute Harbour,5,2,-20.30085,148.798283,IN,16,2020,2020-06-24,Algae,23.0,23.0,8.63,33.75
+3944,Wet Tropics,Daintree,Snapper North,2,1,-16.2924,145.496883,IN,16,2020,2020-07-18,Algae,86.0,86.0,10.75,2.63
+3948,Wet Tropics,Daintree,Snapper North,2,2,-16.295833,145.500583,IN,16,2020,2020-07-18,Algae,98.13,98.13,0.5,1.13
+3952,Wet Tropics,Daintree,Snapper North,2,3,-16.301833,145.506967,IN,16,2020,2020-07-18,Algae,66.63,66.63,9.88,23.0
+4076,Wet Tropics,Daintree,Snapper North,5,1,-16.291883,145.496517,IN,16,2020,2020-07-18,Algae,56.88,56.88,11.25,22.75
+4080,Wet Tropics,Daintree,Snapper North,5,2,-16.294867,145.500367,IN,16,2020,2020-07-18,Algae,41.4,41.4,7.14,21.26
+4264,Wet Tropics,Daintree,Snapper South,2,1,-16.29975,145.496,IN,16,2020,2020-07-19,Algae,71.0,71.0,2.75,25.0
+4268,Wet Tropics,Daintree,Snapper South,2,2,-16.300767,145.499367,IN,16,2020,2020-07-19,Algae,52.63,52.63,9.38,36.63
+4272,Wet Tropics,Daintree,Snapper South,2,3,-16.302117,145.501967,IN,16,2020,2020-07-19,Algae,47.0,47.0,3.88,45.5
+4396,Wet Tropics,Daintree,Snapper South,5,1,-16.299867,145.49595,IN,16,2020,2020-07-19,Algae,32.0,32.0,18.38,48.13
+4400,Wet Tropics,Daintree,Snapper South,5,2,-16.301067,145.499367,IN,16,2020,2020-07-19,Algae,40.5,40.5,6.63,49.88
+4484,Wet Tropics,Johnstone,Fitzroy East,2,1,-16.923833,146.006217,IN,16,2020,2020-08-07,Algae,59.63,59.63,6.63,22.88
+4488,Wet Tropics,Johnstone,Fitzroy East,2,2,-16.943283,145.991167,IN,16,2020,2020-08-07,Algae,22.75,22.75,1.63,70.88
+4572,Wet Tropics,Johnstone,Fitzroy East,5,1,-16.9241,146.006867,IN,16,2020,2020-08-07,Algae,36.5,36.5,26.38,23.63
+4576,Wet Tropics,Johnstone,Fitzroy East,5,2,-16.943533,145.991133,IN,16,2020,2020-08-07,Algae,37.25,37.25,8.0,51.75
+4700,Wet Tropics,Johnstone,Fitzroy West,2,1,-16.923317,145.996267,IN,16,2020,2020-07-19,Algae,29.13,29.13,30.38,39.75
+4704,Wet Tropics,Johnstone,Fitzroy West,2,2,-16.9222,145.999633,IN,16,2020,2020-07-19,Algae,25.63,25.63,39.25,35.0
+4828,Wet Tropics,Johnstone,Fitzroy West,5,1,-16.92315,145.99625,IN,16,2020,2020-07-19,Algae,38.3,38.3,12.39,29.56
+4832,Wet Tropics,Johnstone,Fitzroy West,5,2,-16.9221,145.999633,IN,16,2020,2020-07-19,Algae,27.75,27.75,37.63,28.63
+4924,Wet Tropics,Johnstone,Franklands East,2,1,-17.203783,146.07675,IN,16,2020,2020-07-21,Algae,33.0,33.0,5.5,59.25
+4928,Wet Tropics,Johnstone,Franklands East,2,2,-17.21955,146.09025,IN,16,2020,2020-07-20,Algae,33.38,33.38,2.0,54.63
+5020,Wet Tropics,Johnstone,Franklands East,5,1,-17.20325,146.077,IN,16,2020,2020-07-21,Algae,61.75,61.75,5.88,26.5
+5024,Wet Tropics,Johnstone,Franklands East,5,2,-17.2191,146.091433,IN,16,2020,2020-07-20,Algae,36.44,36.44,1.0,58.69
+5132,Wet Tropics,Johnstone,Franklands West,2,1,-17.226967,146.090467,IN,16,2020,2020-07-20,Algae,41.56,41.56,9.65,48.67
+5136,Wet Tropics,Johnstone,Franklands West,2,2,-17.212467,146.075967,IN,16,2020,2020-07-21,Algae,35.63,35.63,23.63,40.63
+5244,Wet Tropics,Johnstone,Franklands West,5,1,-17.226967,146.090367,IN,16,2020,2020-07-20,Algae,42.18,42.18,0.25,56.45
+5248,Wet Tropics,Johnstone,Franklands West,5,2,-17.212583,146.075733,IN,16,2020,2020-07-21,Algae,48.38,48.38,3.88,47.63
+5340,Wet Tropics,Johnstone,High East,2,1,-17.15815,146.0147,IN,16,2020,2020-08-09,Algae,26.13,26.13,21.5,43.38
+5344,Wet Tropics,Johnstone,High East,2,2,-17.163217,146.01245,IN,16,2020,2020-08-09,Algae,28.88,28.88,5.0,64.75
+5436,Wet Tropics,Johnstone,High East,5,1,-17.158433,146.014817,IN,16,2020,2020-08-08,Algae,22.75,22.75,18.63,48.63
+5440,Wet Tropics,Johnstone,High East,5,2,-17.163683,146.012833,IN,16,2020,2020-08-09,Algae,37.5,37.5,1.63,60.0
+5556,Wet Tropics,Johnstone,High West,2,1,-17.16215,146.007033,IN,16,2020,2020-07-21,Algae,36.81,36.81,0.63,60.56
+5560,Wet Tropics,Johnstone,High West,2,2,-17.16005,146.0058,IN,16,2020,2020-07-21,Algae,43.0,43.0,13.38,38.5
+5676,Wet Tropics,Johnstone,High West,5,1,-17.16215,146.006983,IN,16,2020,2020-07-20,Algae,35.38,35.38,1.38,48.5
+5680,Wet Tropics,Johnstone,High West,5,2,-17.16005,146.00575,IN,16,2020,2020-07-21,Algae,37.88,37.88,7.5,22.38
+5764,Wet Tropics,Tully,Barnards,2,1,-17.672233,146.1742,IN,16,2020,2020-07-18,Algae,23.88,23.88,14.25,43.63
+5768,Wet Tropics,Tully,Barnards,2,2,-17.67395,146.1795,IN,16,2020,2020-07-18,Algae,28.38,28.38,3.0,56.75
+5852,Wet Tropics,Tully,Barnards,5,1,-17.67175,146.174583,IN,16,2020,2020-07-18,Algae,21.88,21.88,14.25,34.13
+5856,Wet Tropics,Tully,Barnards,5,2,-17.6739,146.1795,IN,16,2020,2020-07-18,Algae,15.25,15.25,3.25,64.63
+5900,Wet Tropics,Tully,Bedarra,2,1,-18.009367,146.148033,IN,16,2020,2020-06-01,Algae,63.0,63.0,0.25,10.38
+5904,Wet Tropics,Tully,Bedarra,2,2,-18.008683,146.146433,IN,16,2020,2020-06-01,Algae,64.46,64.46,0.0,12.14
+5948,Wet Tropics,Tully,Bedarra,5,1,-18.0097,146.148083,IN,16,2020,2020-06-01,Algae,45.88,45.88,4.0,16.25
+5952,Wet Tropics,Tully,Bedarra,5,2,-18.009017,146.146383,IN,16,2020,2020-06-01,Algae,38.0,38.0,2.88,17.5
+6060,Wet Tropics,Tully,Dunk North,2,1,-17.9237,146.1368,IN,16,2020,2020-06-01,Algae,30.13,30.13,4.88,53.63
+6064,Wet Tropics,Tully,Dunk North,2,2,-17.926317,146.146133,IN,16,2020,2020-06-01,Algae,62.0,62.0,1.13,17.88
+6172,Wet Tropics,Tully,Dunk North,5,1,-17.923317,146.1373,IN,16,2020,2020-06-01,Algae,37.63,37.63,11.75,25.63
+6176,Wet Tropics,Tully,Dunk North,5,2,-17.926283,146.146133,IN,16,2020,2020-06-01,Algae,30.88,30.88,1.25,22.63
+6268,Wet Tropics,Tully,Dunk South,2,1,-17.95885,146.154333,IN,16,2020,2020-06-02,Algae,54.75,54.75,2.75,32.0
+6272,Wet Tropics,Tully,Dunk South,2,2,-17.957,146.143867,IN,16,2020,2020-06-02,Algae,69.13,69.13,0.38,16.0
+6364,Wet Tropics,Tully,Dunk South,5,1,-17.959083,146.15435,IN,16,2020,2020-06-02,Algae,49.0,49.0,2.88,33.25
+6368,Wet Tropics,Tully,Dunk South,5,2,-17.957317,146.14385,IN,16,2020,2020-06-02,Algae,52.5,52.5,2.88,31.75
