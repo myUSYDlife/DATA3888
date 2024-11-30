@@ -20,36 +20,6 @@ This project investigates the impact of excessive nutrient concentration and sed
 - Contains data from a less polluted/smaller river system pertaining to the nutrient concentrations, sediment transport that may affect coral reef health.
 - 包含来自污染较轻/较小河流系统的数据，涉及可能影响珊瑚礁健康的营养浓度和沉积物运输。
 
-## 🔧 安装步骤
-1. 克隆本项目仓库到本地：
-   ```bash
-   git clone git@github.com:myUSYDlife/DATA3888.git
-   ```
-
-2. 导航到项目目录：
-   ```bash
-   cd DATA3888
-   ```
-
-3. 安装项目依赖项（如适用）：
-   ```bash
-   # 示例命令，具体依赖项请根据项目实际情况调整
-   pip install -r requirements.txt
-   ```
-
-## 🚀 使用说明
-1. 运行主脚本或程序：
-   ```bash
-   # 示例命令，具体脚本名请根据项目实际情况调整
-   python main.py
-   ```
-
-2. 访问Shiny应用（如有）：
-   ```bash
-   # 示例命令，具体URL请根据项目实际情况调整
-   shiny::runApp('path/to/your/app')
-   ```
-
 ## 👥 贡献者
 本项目由以下成员共同完成：
 - **Alicia Molesworth**：问题开发，数据收集
@@ -69,9 +39,3 @@ Research indicates that Total Suspended Solids (TSS) contribute the most to macr
 
 感谢所有贡献者的努力和投入，使本项目得以完成。如果有任何问题或建议，请随时联系我们。😊
 Thank you to all contributors for their efforts and dedication in completing this project. If you have any questions or suggestions, please feel free to contact us. 😊
-
-
----
-
-感谢所有贡献者的努力和投入，使本项目得以完成。如果有任何问题或建议，请随时联系我们。😊
-
