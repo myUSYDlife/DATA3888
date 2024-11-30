@@ -9,6 +9,13 @@ DATA3888 Project
 This project investigates the impact of excessive nutrient concentration and sediment transport on the health of coral reefs in the Great Barrier Reef (GBR). By comparing data from a highly polluted river system and a less polluted one, we aim to understand how these factors influence coral reef ecosystems and develop strategies for mitigating negative effects.
 本项目研究了过多的营养浓度和沉积物运输对大堡礁（GBR）珊瑚礁健康的影响。通过比较一个高度污染的河流系统和一个污染较轻的河流系统的数据，我们旨在了解这些因素如何影响珊瑚礁生态系统，并制定减轻负面影响的策略。
 
+**Group Logo 小组标志**: Orange Soda
+
+<div style="display: flex; justify-content: space-around;"> 
+  <img src="https://github.com/myUSYDlife/DATA3888/blob/main/images/reef_image1.png" alt="大堡礁1" style="width: 45%;"> 
+  <img src="logo_for_reef.png" alt="Orange Soda" style="width: 45%;">
+</div>
+
 **Data Members 数据成员**: Avis, Bill, Jerry, Stella, Ashwin
 
 **Marine Members 海洋成员**: Jordy, Alicia, Emily
